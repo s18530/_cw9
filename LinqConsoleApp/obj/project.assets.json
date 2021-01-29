@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CODING\\Projekty\\ProjektySzkoła\\SEM_5\\APBD\\3\\9\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
+      "projectUniqueName": "E:\\CODING\\Projekty\\ProjektySzkoła\\SEM_5\\APBD\\3\\9\\_cw9\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
       "projectName": "LinqConsoleApp",
-      "projectPath": "E:\\CODING\\Projekty\\ProjektySzkoła\\SEM_5\\APBD\\3\\9\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
+      "projectPath": "E:\\CODING\\Projekty\\ProjektySzkoła\\SEM_5\\APBD\\3\\9\\_cw9\\LinqConsoleApp\\LinqConsoleApp\\LinqConsoleApp.csproj",
       "packagesPath": "C:\\Users\\konra\\.nuget\\packages\\",
-      "outputPath": "E:\\CODING\\Projekty\\ProjektySzkoła\\SEM_5\\APBD\\3\\9\\LinqConsoleApp\\LinqConsoleApp\\obj\\",
+      "outputPath": "E:\\CODING\\Projekty\\ProjektySzkoła\\SEM_5\\APBD\\3\\9\\_cw9\\LinqConsoleApp\\LinqConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

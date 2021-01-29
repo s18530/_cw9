@@ -1,0 +1,13 @@
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.exe
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.deps.json
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.json
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.dev.json
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.dll
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csprojAssemblyReference.cache
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.dll
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+E:\CODING\Projekty\ProjektySzkoła\SEM_5\APBD\3\9\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.genruntimeconfig.cache
